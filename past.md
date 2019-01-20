@@ -4,4 +4,3 @@ title: Past Meetings
 permalink: /past/
 ---
 
-## Past Meetings
